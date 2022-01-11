@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Android,Python,Spring**
 
-- 📫 How to reach me **0416zoey@gmail.com**
+- 📫 How to reach me **yingyingz0416@gmail.com**
 
-- 📄 Know about my experiences [https://zoeyyingying.github.io/](https://zoeyyingying.github.io/)
+- 📄 Know about my experiences [https://yingyingyyz.github.io/](https://yingyingyyz.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
